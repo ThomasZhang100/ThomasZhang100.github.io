@@ -1,0 +1,5 @@
+# Source recordings. Only the web-ready encodes in media/ ship with the site —
+# the originals are large enough to be worth keeping out of the repo.
+images/*.mov
+images/*.MOV
+.DS_Store

@@ -33,7 +33,7 @@ const SITE = {
   resume: "TZ_resume_c.pdf",
   about: [
     "I'm a B.S.E. candidate in Electrical and Computer Engineering at Princeton University (Class of 2028), where I hold a 3.96 GPA and received the Shapiro Prize for Academic Excellence in 2025.",
-    "I'm super interested in microprocessor design, digital logic, embedded systems, and microfabrication!"
+    "I'm super interested in hardware engineering, embedded systems, microprocessor design!"
   ],
   skills: [
     {

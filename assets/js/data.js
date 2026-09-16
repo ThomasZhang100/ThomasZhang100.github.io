@@ -26,7 +26,7 @@
 const SITE = {
   name: "Thomas Zhang",
   tagline:
-    "Electrical & computer engineering undergrad at Princeton, working on computer architecture, hardware design, and the software around them.",
+    "Electrical & computer engineering undergrad at Princeton, working on hardware design, computer architecture, and the software around them.",
   location: "Princeton, NJ",
   email: "tz4088@princeton.edu",
   github: "https://github.com/ThomasZhang100",
